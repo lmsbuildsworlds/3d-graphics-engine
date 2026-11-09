@@ -53,7 +53,8 @@ If you're using a Mac and want to experiment with a 3D graphics engine, or simpl
 ## Demo
 
 A short video showcasing the 3D Graphics Engine using a 3D object file and a texture generated with Claude.
-![Screenshot](docs/screenshot.png)
+
+https://github.com/user-attachments/assets/cc538e1f-dc9e-4776-87e0-1c4a82d5f92e
 
 ## Tech Stack
 
@@ -70,7 +71,7 @@ olcPixelGameEngine: free, open-source C++ framework for 2D graphics, games, and 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/lmsbuildsworlds/3d_graphics_engine.git
+   git clone https://github.com/lmsbuildsworlds/3d-graphics-engine.git
    cd [repo]
    ```
 2. Compile and run the project: 
@@ -128,9 +129,9 @@ Distributed under the [MIT License](LICENSE). See `LICENSE` for more information
 
 ## Contact
 
-Linkedin: [@loicmartins](https://linkedin.com/loicmartins)
+Linkedin: [@loicmartins](https://linkedin.com/in/loicmartins)
 
-Project link: [https://github.com/lmsbuildsworlds/3d_graphics_engine](lmsbuildsworlds/3d_graphics_engine)
+Project link: [https://github.com/lmsbuildsworlds/3d-graphics-engine](lmsbuildsworlds/3d-graphics-engine)
 
 ## Acknowledgements
 
