@@ -3,7 +3,7 @@
 
 # 3D Graphics Engine
 
-**Development of a 3D graphics engine from scratch for educational purposes.**
+**Development of a 3D graphics engine from scratch in C++ for educational purposes.**
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
@@ -36,7 +36,7 @@ Inspired by the YouTube series "Code-It-Yourself! 3D Graphics Engine" by javidx9
 
 This project is not intended to provide anything beyond what is already covered in the original YouTube series. Instead, it offers two small adaptations:
 
-1. **macOS compatibility:** I implemented and adapted the code to run on a MacBook Pro with an M4 Max chip.
+1. **macOS compatibility:** I implemented and adapted the code to run on a MacBook Pro Max with an M4 chip.
 2. **Educational documentation:** I added extensive comments throughout the code to explain what each part does, making it easier to understand the underlying concepts and follow the implementation step by step.
 
 If you're using a Mac and want to experiment with a 3D graphics engine, or simply want to explore how the code works and understand the theory behind it, this project might be a good starting point!
